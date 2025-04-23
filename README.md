@@ -1,4 +1,4 @@
-#AI Companion — Overview
+## AI Companion — Overview
 
 **Disclaimer for Prospective Employers**  
 The core source code for this project is private.  If you would like a guided walkthrough or a live demonstration of the system, please contact me directly and I’ll be happy to showcase the implementation, discuss design choices, and answer questions in detail.
@@ -54,7 +54,7 @@ All components are **stream‑pipelined** so the companion speaks & animates all
 
 ## Contact
 *Email*: **spava002@fiu.edu**  
-[*LinkedIn*](https://www.linkedin.com/in/sebastian-pava-485859251/)
+*LinkedIn*: **https://www.linkedin.com/in/sebastian-pava-485859251/**
 
 Feel free to reach out for more information, collaboration, or feedback!
 
