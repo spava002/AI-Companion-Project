@@ -10,8 +10,8 @@ An **AI Companion** that listens, understands, reacts, and *comes to life* on sc
 
 * **Speech To Text** — Low‑latency ASR streams audio and produces transcripts on the fly.
 * **Who Said What?** — Speaker diarization splits the conversation; speaker‑recognition embeddings identify known voices.
-* **Reasoning & Memory** — An LLM (via **LangChain**) uses function calling short term memory for current conversations, and a vector DB for long‑term memory.
-* **Text To Speech** — A neural TTS engine synthesises the reply with minimal delay.
+* **Reasoning & Memory** — An LLM (via **LangChain**) uses function calling and short term memory for current conversations, and a vector DB for long‑term memory.
+* **Text To Speech** — A TTS engine synthesises the reply with minimal delay.
 * **Visual Persona** — Sentiment analysis drives dynamic emotion changes through the **VTube Studio API**.
 * **Play Together** *(experimental)* — The Companion can act inside a Unity game via socket commands while you play alongside it.
 
