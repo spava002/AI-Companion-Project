@@ -24,7 +24,7 @@ All components are **stream‑pipelined** so the companion speaks & animates all
 * **Speech Processing** — [Faster‑Whisper](https://github.com/SYSTRAN/faster-whisper) (ASR), [Pyannote](https://github.com/pyannote/pyannote-audio) (Diarization), [Speechbrain](https://github.com/speechbrain/speechbrain) (Speaker Embeddings & Speaker Recognition)
 * **Language** — OpenAI & Vector DB (Pinecone)
 * **Audio** — [GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS)
-* **Vision & Avatar** — [VTube Studio API](https://github.com/DenchiSoft/VTubeStudio)
+* **Avatar** — [VTube Studio API](https://github.com/DenchiSoft/VTubeStudio)
 * **Game** — Unity, C# & Sockets
 * **ML Libraries** — NumPy & Torch
 
@@ -32,7 +32,7 @@ All components are **stream‑pipelined** so the companion speaks & animates all
 
 ## Key Features
 1. **Streaming Pipeline** — Words, emotions, and speech appear with very low perceived latency.
-2. **Emotion‑Aware Voice & Face** — Custom trained sentiment classifier modifies avatar expression to match what is being said.
+2. **Emotion‑Aware Voice & Expressions** — Custom trained sentiment classifier modifies avatar expression to match what is being said.
 3. **Tool‑Calling Skills**
    * Web Search
    * VTube Studio scene control (toggle props & trigger movements)
