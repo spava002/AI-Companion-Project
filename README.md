@@ -40,9 +40,8 @@ All components are **stream‑pipelined** so the companion speaks & animates all
 
 ---
 
-## Demos (Pending)
-`demo_sentiment.mp4` — Shows the avatar changing emotions mid‑sentence while speaking.
-`demo_gameplay.mp4`  — Short Unity scene where the Companion and player clear a room together.
+## Demos * Unity Demo Pending
+`emotions-demo.mp4` — Shows the avatar changing emotions mid‑sentence while speaking.
 
 ---
 
