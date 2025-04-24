@@ -45,7 +45,7 @@ All components are **stream‑pipelined** so the companion speaks & animates all
  Unity Demo Pending*
  
  — Showcases the avatar changing emotions mid‑sentence while speaking and toggling items on its own.
-https://github.com/user-attachments/assets/fadcd5f9-f71d-4b3b-a6e1-734dac33a033
+ [![Watch the demo](https://img.youtube.com/vi/NIlQW0GkVGA/hqdefault.jpg)](https://youtu.be/NIlQW0GkVGA)
 
 
 ---
