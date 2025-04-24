@@ -40,9 +40,10 @@ All components are **stream‑pipelined** so the companion speaks & animates all
 
 ---
 
-## Demos * Unity Demo Pending
+## Demos 
+* Unity Demo Pending
  — Shows the avatar changing emotions mid‑sentence while speaking.
- [![Watch the demo](https://img.youtube.com/vi/29u0eGBEMhM/hqdefault.jpg)](https://youtu.be/29u0eGBEMhM)
+ [![Watch the demo](https://img.youtube.com/vi/NIlQW0GkVGA/hqdefault.jpg)](https://youtu.be/NIlQW0GkVGA)
 
 ---
 
