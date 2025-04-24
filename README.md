@@ -20,11 +20,11 @@ All components are **stream‑pipelined** so the companion speaks & animates all
 ---
 
 ## Tech Stack
-* **Main Tools** — **Python**, **LangChain**
-* **Speech Processing** — Faster‑Whisper (ASR), Pyannote (Diarization), Speechbrain (Speaker Embeddings & Speaker Recognition)
+* **Main Tools** — **Python**, **[LangChain](https://github.com/langchain-ai/langchain)**
+* **Speech Processing** — [Faster‑Whisper](https://github.com/SYSTRAN/faster-whisper) (ASR), [Pyannote](https://github.com/pyannote/pyannote-audio) (Diarization), [Speechbrain](https://github.com/speechbrain/speechbrain) (Speaker Embeddings & Speaker Recognition)
 * **Language** — OpenAI & Vector DB (Pinecone)
-* **Audio** — GPTSoVITS
-* **Vision & Avatar** — VTube Studio API
+* **Audio** — [GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS)
+* **Vision & Avatar** — [VTube Studio API](https://github.com/DenchiSoft/VTubeStudio)
 * **Game** — Unity, C# & Sockets
 * **ML Libraries** — NumPy & Torch
 
