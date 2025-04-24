@@ -34,9 +34,10 @@ All components are **stream‑pipelined** so the companion speaks & animates all
 1. **Streaming Pipeline** — Words, emotions, and speech appear with very low perceived latency.
 2. **Emotion‑Aware Voice & Face** — Custom trained sentiment classifier modifies avatar expression to match what is being said.
 3. **Tool‑Calling Skills**
+   * Web Search
    * VTube Studio scene control (toggle props & trigger movements)
    * In‑game actions (move to locations, follow the player, mount/dismount) over sockets
-4. **Memory** — Short term for each conversation; long‑term via vector DB, recalling and injecting context of past sessions.
+5. **Memory** — Short term for each conversation; long‑term via vector DB, recalling and injecting context of past sessions.
 
 ---
 
