@@ -61,3 +61,5 @@ All components are **stream‑pipelined** so the companion speaks & animates all
 
 Feel free to reach out for more information, collaboration, or feedback!
 
+## Credits
+- [VTubeStudio Model](https://steamcommunity.com/sharedfiles/filedetails/?id=2802653785&searchtext=)
