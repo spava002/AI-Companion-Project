@@ -42,7 +42,7 @@ All components are **stream‑pipelined** so the companion speaks & animates all
 
 ## Demos 
 * Unity Demo Pending
- — Shows the avatar changing emotions mid‑sentence while speaking.
+ — Showcases the avatar changing emotions mid‑sentence while speaking and toggling items via tool calls/Vtube Studio API.
  [![Watch the demo](https://img.youtube.com/vi/NIlQW0GkVGA/hqdefault.jpg)](https://youtu.be/NIlQW0GkVGA)
 
 ---
