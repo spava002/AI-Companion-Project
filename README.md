@@ -3,8 +3,6 @@
 **Disclaimer for Prospective Employers**  
 The source code for this project is private.  If you would like a guided walkthrough or a live demonstration of the system, please contact me directly and I’ll be happy to showcase the implementation, discuss design choices, and answer questions in detail.
 
----
-
 ## What Is It?
 An **AI Companion** that listens, understands, reacts, and *comes to life* on screen in near‑real‑time.
 
@@ -17,18 +15,14 @@ An **AI Companion** that listens, understands, reacts, and *comes to life* on sc
 
 All components are **stream‑pipelined** so the companion speaks & animates all within a few seconds.
 
----
-
 ## Tech Stack
-* **Main Tools** — **Python**, **[LangChain](https://github.com/langchain-ai/langchain)**
+* **Main Tools** — Python, [LangChain](https://github.com/langchain-ai/langchain)
 * **Speech Processing** — [Faster‑Whisper](https://github.com/SYSTRAN/faster-whisper) (ASR), [Pyannote](https://github.com/pyannote/pyannote-audio) (Diarization), [Speechbrain](https://github.com/speechbrain/speechbrain) (Speaker Embeddings & Speaker Recognition)
 * **Language** — OpenAI & Vector DB (Pinecone)
 * **Audio** — [GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS)
 * **Avatar** — [VTube Studio API](https://github.com/DenchiSoft/VTubeStudio)
 * **Game** — Unity, C# & Sockets
 * **ML Libraries** — NumPy & Torch
-
----
 
 ## Key Features
 1. **Streaming Pipeline** — Words, emotions, and speech appear with very low perceived latency.
@@ -39,22 +33,16 @@ All components are **stream‑pipelined** so the companion speaks & animates all
    * In‑game actions (move to locations, follow the player, mount/dismount) over sockets
 5. **Memory** — Short term for each conversation; long‑term via vector DB, recalling and injecting context of past sessions.
 
----
-
 ## Demos 
  Unity Demo Pending*
  
- — Showcases the avatar changing emotions mid‑sentence while speaking and toggling items on its own.
+# Showcases the avatar changing emotions mid‑sentence while speaking and toggling items on its own.
  
 https://github.com/user-attachments/assets/4afa6dbc-e7f3-479e-ab3c-798d273acb79
-
----
 
 ## Roadmap
 - **Vision Capabilities**
 - **Expand Game**
-
----
 
 ## Contact
 *Email*: **spava002@fiu.edu**  
