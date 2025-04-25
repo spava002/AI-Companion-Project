@@ -34,11 +34,11 @@ All components are **stream‑pipelined** so the companion speaks & animates all
 5. **Memory** — Short term for each conversation; long‑term via vector DB, recalling and injecting context of past sessions.
 
 ## Demos 
- Unity Demo Pending*
- 
-# Showcases the avatar changing emotions mid‑sentence while speaking and toggling items on its own.
+* Showcases the avatar changing emotions mid‑sentence while speaking and toggling items on its own.
  
 https://github.com/user-attachments/assets/4afa6dbc-e7f3-479e-ab3c-798d273acb79
+
+* Unity Demo Pending*
 
 ## Roadmap
 - **Vision Capabilities**
