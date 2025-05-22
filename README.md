@@ -11,7 +11,7 @@ An **AI Companion** that listens, understands, reacts, and *comes to life* on sc
 * **Reasoning & Memory** - An LLM uses tool calling to perform actions, and maintains short term memory for current conversations, and a vector DB for long‑term memory.
 * **Text To Speech** - A TTS engine synthesises the reply with minimal delay.
 * **Visual Persona** - Sentiment analysis drives dynamic emotion changes through the VTube Studio API.
-* **Discord Calls** *(coming VERY soon)* - Paired with a discord bot, the companion can join discord voice calls with multiple people, where it can listen and respond - being part of the conversation.
+* **Discord Calls** - Paired with a discord bot, the companion can join discord voice calls with multiple people, where it can listen and respond - being part of the conversation.
 * **Play Together** *(experimental)* - The Companion can act inside a Unity game via socket commands while you play alongside it.
 
 All components are **stream‑pipelined** so the companion speaks & animates all within a few seconds.
