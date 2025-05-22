@@ -48,7 +48,7 @@ https://github.com/user-attachments/assets/4afa6dbc-e7f3-479e-ab3c-798d273acb79
 
 ## Contact
 *Email*: **spava002@fiu.edu**  
-*LinkedIn*: **https://www.linkedin.com/in/sebastian-pava-485859251/**
+*LinkedIn*: **https://www.linkedin.com/in/sebastian-pava**
 
 Feel free to reach out for more information, collaboration, or feedback!
 
