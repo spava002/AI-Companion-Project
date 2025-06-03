@@ -12,14 +12,15 @@ An **AI Companion** that listens, understands, reacts, and *comes to life* on sc
 * **Text To Speech** - A TTS engine synthesises the reply with minimal delay.
 * **Visual Persona** - Sentiment analysis drives dynamic emotion changes through the VTube Studio API.
 * **Discord Calls** - Paired with a discord bot, the companion can join discord voice calls with multiple people, where it can listen and respond - being part of the conversation.
+* **Natural Conversation Flow** - With a toggleable feature, the AI can be interrupted mid-speech and will pause to listen, allowing for more fluid, human-like interactions. It also uses conversational context and speaker tracking to determine the right moments to respond - especially useful in multi-speaker environments!
 * **Play Together** *(experimental)* - The Companion can act inside a Unity game via socket commands while you play alongside it.
 
 All components are **stream‑pipelined** so the companion speaks & animates all within a few seconds.
 
 ## Tech Stack
 * **Main Tools** - Python, [LangChain](https://github.com/langchain-ai/langchain)
-* **Speech Processing** - [Faster‑Whisper](https://github.com/SYSTRAN/faster-whisper) (ASR), [Pyannote](https://github.com/pyannote/pyannote-audio) (Diarization), [Speechbrain](https://github.com/speechbrain/speechbrain) (Speaker Embeddings & Speaker Recognition)
-* **Language** - OpenAI & Vector DB (Pinecone)
+* **Speech Processing** - [Faster‑Whisper](https://github.com/SYSTRAN/faster-whisper) (ASR), [Pyannote](https://github.com/pyannote/pyannote-audio) (Segmentation), [Speechbrain](https://github.com/speechbrain/speechbrain) (Speaker Embeddings & Speaker Recognition)
+* **Language** - OpenAI & Vector DB (Qdrant)
 * **Audio** - [GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS)
 * **Avatar** - [VTube Studio API](https://github.com/DenchiSoft/VTubeStudio)
 * **Discord VoiceCalls** - [Discord API](https://github.com/Rapptz/discord.py)
