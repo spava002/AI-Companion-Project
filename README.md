@@ -19,7 +19,7 @@ All components are **stream‑pipelined** so the companion speaks & animates all
 
 ## Tech Stack
 * **Main Tools** - Python, [LangChain](https://github.com/langchain-ai/langchain)
-* **Speech Processing** - [Faster‑Whisper](https://github.com/SYSTRAN/faster-whisper) (ASR), [Pyannote](https://github.com/pyannote/pyannote-audio) (Segmentation), [Speechbrain](https://github.com/speechbrain/speechbrain) (Speaker Embeddings & Speaker Recognition)
+* **Speech Processing** - [Silero-VAD](https://github.com/snakers4/silero-vad) (Voice Activity Detection)[Faster‑Whisper](https://github.com/SYSTRAN/faster-whisper) (ASR), [Pyannote](https://github.com/pyannote/pyannote-audio) (Segmentation), [Speechbrain](https://github.com/speechbrain/speechbrain) (Speaker Embeddings & Speaker Recognition)
 * **Language** - OpenAI & Vector DB (Qdrant)
 * **Audio** - [GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS)
 * **Avatar** - [VTube Studio API](https://github.com/DenchiSoft/VTubeStudio)
@@ -37,21 +37,16 @@ All components are **stream‑pipelined** so the companion speaks & animates all
 5. **Memory** - Short term for each conversation; long‑term via vector DB, recalling and injecting context of past sessions.
 
 ## Demos 
-* Showcases the avatar changing emotions mid‑sentence while speaking and toggling items on its own.
  
-https://github.com/user-attachments/assets/4afa6dbc-e7f3-479e-ab3c-798d273acb79
-
-* Unity Demo Pending*
+[![Watch the video](https://img.youtube.com/vi/EWs77U05xxU/0.jpg)](https://www.youtube.com/watch?v=EWs77U05xxU)
 
 ## Roadmap
+- **Expand Discord Capabilities**
 - **Vision Capabilities**
-- **Expand Game**
+- **Expand Functionalities To Allow Game Playing**
 
 ## Contact
 *Email*: **spava002@fiu.edu**  
 *LinkedIn*: **https://www.linkedin.com/in/sebastian-pava**
 
 Feel free to reach out for more information, collaboration, or feedback!
-
-## Credits
-- [VTubeStudio Model](https://steamcommunity.com/sharedfiles/filedetails/?id=2802653785&searchtext=)
