@@ -28,7 +28,7 @@ All components are **stream‑pipelined** so the companion speaks & animates all
 * **ML Libraries** - NumPy & Torch
 
 ## Key Features
-1. **Streaming Pipeline**  Words, emotions, and speech appear with very low perceived latency.
+1. **Streaming Pipeline** - Words, emotions, and speech appear with very low perceived latency.
 2. **Emotion‑Aware Voice & Expressions** - Custom trained sentiment classifier modifies avatar expression to match what is being said.
 3. **Tool‑Calling Skills**
    * Web Search
